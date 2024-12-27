@@ -298,7 +298,7 @@ html {
 }
 
 .backgroundContainer.withBackdrop {
-    opacity: .9375;
+    opacity: .3;
     background: var(--backgroundGradient)
 }
 
